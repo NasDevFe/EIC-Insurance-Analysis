@@ -1,17 +1,18 @@
-# EIC-Insurance-Analysis.
+
+# 📉 The Business Collapse of the Ever Trust Insurance Corporation 
 This repository presents a case study on the collapse of **Ever Trust Insurance Corporation (EIC)**, a motor insurance leader from 2014–2018. Rising claims costs and shrinking premiums led to its 2019 bankruptcy. Using historical records, the project analyzes key metrics, trends, and factors behind EIC’s downfall.
 
-# 📉 The Business Collapse of the Ever Trust Insurance Corporation  
 
+# EIC-Insurance-Analysis.
 ## 📌 Overview:
 This repository presents a case study on the collapse of **Ever Trust Insurance Corporation (EIC)**, a former leader in the motor insurance industry from 2014–2018. 
 Persistent financial difficulties—including rising claims costs and shrinking premiums—culminated in **bankruptcy in 2019**. 
 Using historical financial records, this project examines **key performance metrics, trends, and business dynamics** to identify the operational, strategic, and market forces that drove EIC’s downfall.  
 
 ---
-## 🖼️ Dashboard Preview: 
-![EIC Dashboard Preview](./PowerBI/EIC_Dashboard.png)  
-*(Add your screenshot as `EIC_Dashboard.png` inside the `PowerBI/` folder in this repo)* 
+## 🖼️ Introduction & Dashboard Preview: 
+![EIC Dashboard Preview](./Introduction_Page.jpg)  
+![EIC Dashboard Preview](./Dashboard_Page.jpg)  
 
 ---
 
@@ -43,8 +44,12 @@ To deliver an **interactive data-driven dashboard** that highlights EIC’s fina
 2. Review the dataset and SQL files for preprocessing.
 3. Open Power BI dashboards for interactive analysis.
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments:
 Gratitude to [Chandoo.org](https://chandoo.org) for providing insightful resources and inspiration for dashboard design and data visualization.
 
+## 📌 Author:
+  
+👨‍💻 **Naseer Syed Qadri**  
+🔗 [LinkedIn](https://www.linkedin.com/in/syednaseerudindataanalyst)  
 
 
